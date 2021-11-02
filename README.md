@@ -32,7 +32,7 @@ A pyqt tool to effectively review images & move them to specific directory.
     - image type  
     ```bash
     # example
-    python main.py --img_path='path/to/your/imgs' --csv_path='path/to/save/CSV' --type='png'
+    python main.py --img_path=path/to/your/imgs --csv_path=path/to/save/CSV --type=png
     ```
 
 ## Directory stucture
